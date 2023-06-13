@@ -4,7 +4,7 @@ public class gitdemoproj {
 	
 	    public static void main(String []args)
 	    {
-	        System.out.println("Hello, Sajal, Padmanabh Deo!");
+	        System.out.println("Hello, Sajal, Pune!");
 	    }
 	};
 
